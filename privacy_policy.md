@@ -1,11 +1,11 @@
 # Privacy Policy
 
 **Effective Date:** November 3, 2025  
-**Last Updated:** November 3, 2025
+**Last Updated:** February 7, 2026
 
 ---
 
-This privacy policy applies to the **Sherman's Catch** app (hereby referred to as "**Application**") for mobile devices that was created by **Halasz Akos** (hereby referred to as "**Service Provider**") as a **Commercial** service.
+This privacy policy applies to the **Sherman - Drinking Game** app (hereby referred to as "**Application**") for mobile devices that was created by **Halasz Akos** (hereby referred to as "**Service Provider**") as a **Commercial** service.
 
 ---
 
@@ -93,7 +93,7 @@ All data is stored locally on your device. You can view player names within the 
 You can delete all stored data by:
 1. **Uninstalling the Application** - removes all data permanently
 2. **Using the "New Game" button** - resets all player names and game progress
-3. **Clearing app data** in your device settings (Settings → Apps → Sherman's Catch → Clear Data)
+3. **Clearing app data** in your device settings (Settings → Apps → Sherman - Drinking Game → Clear Data)
 
 ### Data Portability
 Since all data is stored locally, you can access it directly on your device. The data is NOT in a portable format as it uses system storage.
@@ -160,4 +160,4 @@ This Privacy Policy is governed by the **General Data Protection Regulation (GDP
 
 ---
 
-*This privacy policy was created for Sherman's Catch and complies with GDPR, CCPA, and mobile app store requirements.*
+*This privacy policy was created for Sherman - Drinking Game and complies with GDPR, CCPA, and mobile app store requirements.*
