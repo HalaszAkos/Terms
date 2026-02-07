@@ -62,19 +62,18 @@ It is your responsibility to maintain the security of your phone and access to t
 
 ## Internet Connection and Data Charges
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects:
+The Application **does NOT require an internet connection** for normal gameplay. All game features work offline.
 
-- Some functions of the Application require an **active internet connection** (Wi-Fi or mobile data)
-- The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance
+An internet connection is **only required** for:
+- **Downloading** the Application from the app store
+- **Updating** the Application to newer versions
 
-If you are using the application outside of a Wi-Fi area, your mobile network provider's agreement terms still apply. You may incur charges from your mobile provider for:
+Please be aware:
+- If you download or update the application outside of a Wi-Fi area, your mobile network provider's agreement terms apply
+- You may incur data charges from your mobile provider for downloading or updating the application
+- **By downloading or updating the application using mobile data, you accept responsibility for any such charges**
 
-- Data usage during the connection to the application
-- Roaming data charges if you use the application outside of your home territory
-
-**By using the application, you accept responsibility for any such charges.**
-
-If you are not the bill payer for the device, the Service Provider assumes that you have obtained permission from the bill payer.
+If you are not the bill payer for the device, the Service Provider assumes that you have obtained permission from the bill payer before downloading or updating.
 
 ---
 
